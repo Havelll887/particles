@@ -1,5 +1,7 @@
 # particles
 
+three particles demo
+
 ## Project setup
 ```
 npm install
